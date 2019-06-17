@@ -92,6 +92,7 @@
     "markdown-it-sub": "^1.0.0",
     "markdown-it-sup": "^1.0.0",
     "markdown-toc": "^1.2.0",
+    "markdown-it-mermaid": "^0.2.5",
     "mdurl": "^1.0.1",
     "mermaid": "^8.0.0-rc.8",
     "moment": "^2.10.3",

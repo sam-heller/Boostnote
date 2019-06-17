@@ -68,3 +68,8 @@ test('Markdown.render() should render shortcuts correctly', t => {
   const rendered = md.render(markdownFixtures.shortcuts)
   t.snapshot(rendered)
 })
+
+test('Markdown.render() should render mermaid graphs correctly', t => {
+  const rendered = md.render(markdownFixtures.mermaid)
+  t.snapshot(rendered)
+})
